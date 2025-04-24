@@ -1,0 +1,26 @@
+{
+    "private": true,
+    "type": "module",
+    "scripts": {
+        "dev": "vite",
+        "build": "vite build"
+    },
+    "devDependencies": {
+        "@vitejs/plugin-react": "^4.0.0",
+        "axios": "^1.1.2",
+        "laravel-vite-plugin": "^0.8.0",
+        "vite": "^4.0.0"
+    },
+    "dependencies": {
+        "react": "^18.2.0",
+        "react-dom": "^18.2.0",
+        "react-router-dom": "^6.10.0",
+        "chart.js": "^4.3.0",
+        "react-chartjs-2": "^5.2.0",
+        "framer-motion": "^10.12.4",
+        "lucide-react": "^0.244.0",
+        "react-table": "^7.8.0",
+        "date-fns": "^2.29.3",
+        "react-datepicker": "^4.11.0"
+    }
+}
